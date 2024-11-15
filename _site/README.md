@@ -1,1 +1,0 @@
-# Osvalds.net website
