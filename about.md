@@ -1,6 +1,9 @@
 ---
+layout: page
 title: About
+permalink: /about/
 ---
-# About page
 
-This page tells you a little bit about me.
+About our family!
+
+![family in front of fall bush](/assets/images/fall_bush.png "Fall family")
