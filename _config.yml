@@ -5,22 +5,14 @@ plugins:
   
 theme: minima
 
-title: Your awesome title
-author: Nik Osvalds
-
+title: The Osvalds
+author: Nikolas Osvalds
+email: nik@osvalds.net
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  The Osvalds Family blog.
 
-# Generate social links in footer.
-minima:
-  social_links:
-    - platform: facebook
-      user_url: "https://www.facebook.com/nosvalds"
-    - platform: github
-      user_url: "https://github.com/nosvalds"
-    - platform: instagram
-      user_url: "https://www.instagram.com/nosvalds"
+facebook_username: nosvalds
+instagram_username: nosvalds
+linkedin_username: nosvalds

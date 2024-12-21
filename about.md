@@ -6,4 +6,11 @@ permalink: /about/
 
 About our family!
 
-![family in front of fall bush](/assets/images/fall_bush.png "Fall family")
+* Heather Myatt
+* Nikolas Osvalds
+* Zenta Osvalds
+
+Residing in Montreal, Canada since 2023.
+
+![Osvalds family](/assets/images/Heather_Niki_Zenta.png "Osvalds family")
+
